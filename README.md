@@ -16,7 +16,7 @@ By accessing the video recording of this project, you acknowledge and agree that
 - The communication between the two people is managed by the Chat Server.
 - Multiple users are supported with the Chat Server implemented as a multi-threaded listener.
 - The chat session can be ended by either person, and the communication paths end gracefully.
-## Tech
+## Tech Stack
 
 - C# programming language
 - .NET Framework 4.7.2
