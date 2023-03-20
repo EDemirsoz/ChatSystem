@@ -29,20 +29,16 @@ By accessing the video recording of this project, you acknowledge and agree that
 ## Requirements
 - Visual Studio 2019 or later.
 - .NET Framework 4.7.2 or later.
-## Installation
+
+## Run Locally
 
     1. Clone the repository to your local machine.
     2. Open the solution file in Visual Studio.
-    3. Build the solution.
-    4. Run the Chat Server console application on a desired computer.
-    5. Run the Chat Client WPF application on one or more computers.
-## Run Locally
-
-    1. Start the Chat Server console application.
-    2. Start the Chat Client WPF application on one or more computers.
-    3. Enter the IP address of the Chat Server and a username to connect to the chat.
-    4. Once connected, users can send and receive messages with the other connected user(s).
-    5. Either user can end the chat session by typing "/exit" or closing the application window.
+    3. Start the Chat Server console application.
+    4. Start the Chat Client WPF application on one or more computers.
+    5. Enter the IP address of the Chat Server and a username to connect to the chat.
+    6. Once connected, users can send and receive messages with the other connected user(s).
+    7. User can end the chat session by closing the application window.
 
 
 ## Demo
